@@ -1,0 +1,22 @@
+{
+  "framework": "react",
+  "type": "ts",
+  "theme": "tailwind3",
+  "styling": "css",
+  "template": "rich-text-editor",
+  "buildTool": "vite",
+  "components": [
+    "rich-text-editor"
+  ],
+  "mcp": {
+    "integrated": false,
+    "editors": []
+  },
+  "skills": {
+    "installed": false
+  },
+  "version": "1.0.1",
+  "createdAt": "2026-10-20T06:39:24.364Z",
+  "updatedAt": "2026-10-20T06:39:24.371Z",
+  "syncfusionVersion": "1.0.1"
+}
